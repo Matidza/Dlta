@@ -1,1 +1,2 @@
-# Dlta
+# DLTA
+SE Ore Training
