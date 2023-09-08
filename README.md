@@ -1,2 +1,2 @@
 # DLTA
-SE Ore Training
+SE Core Training
