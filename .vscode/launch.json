@@ -92,8 +92,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/dlta",
-      "program": "c:/dlta/build/Debug/outDebug",
+      "cwd": "c:/dlta/C/Variables",
+      "program": "c:/dlta/C/Variables/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
