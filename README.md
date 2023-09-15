@@ -1,5 +1,8 @@
 DLTA C
 
+![image](https://github.com/Matidza/Dlta/assets/125007667/33c6bc2b-6ec6-493c-b804-e29e09652580)
+
+
 Learning the C programming language is a valuable step toward becoming a proficient programmer. In a C programming course or self-study, you will typically cover the following key topics:
 
 1. **Syntax and Fundamentals**: You'll start with the basics, including understanding the syntax of C, how to declare variables, and write simple programs.
