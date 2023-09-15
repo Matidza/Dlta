@@ -17,12 +17,13 @@ int main(void)
         printf("| o | X | o | X | o | X |\n");
         printf("| X | o | X | o | X | o |\n");
     }
-    printf("\n");    
+       
     printf("+");
     for (i = 0; i < 23; i++)
     {
         printf("-");
     }
     printf("+");
+    printf("\n");
     return(0);
 }
