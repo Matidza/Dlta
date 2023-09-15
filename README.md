@@ -1,4 +1,4 @@
-DLTA C
+DLTA C 
 
 ![image](https://github.com/Matidza/Dlta/assets/125007667/33c6bc2b-6ec6-493c-b804-e29e09652580)
 
