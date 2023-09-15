@@ -91,9 +91,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/dlta/C/Variables",
-      "program": "c:/dlta/C/Variables/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/dlta/Dlta-1",
+      "program": "/home/dlta/Dlta-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
