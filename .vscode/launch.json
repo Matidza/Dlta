@@ -92,8 +92,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/dlta/Dlta-1",
-      "program": "/home/dlta/Dlta-1/build/Debug/outDebug",
+      "cwd": "/home/dlta/dlta",
+      "program": "/home/dlta/dlta/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
